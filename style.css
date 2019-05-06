@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,600,700');
+
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #e56b70;
+    text-align: center;
+    background-color: #202020;
+    border: 5px;
+    border-color: #e56b70;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 2rem;
+    text-align: center !important;
+    color: steelblue;
+}
+
+p {
+    margin-top: 0px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center !important;
+    color: #f7e7ce;
+}
+
+.img {
+    max-width: 100% !important;
+    max-height: 100% !important;
+}
+
+.form-control {
+    margin: 0 auto;
+
+}
+
+
+/*-----------------------Colours------------*/
+
+.color-home {
+    background-color: #202020;
+    color: white;
+}
+
+.color-history {
+    background-color: #202020;
+}
+
+.color-media {
+    background-color: #202020;
+}
+
+.color-contact {
+    background-color: #f202020;
+}
+
+.index-color {
+    color: #f7e7ce;
+}
+
+.history-color {
+    color: #188FA7 !important;
+}
+
+.media-color {
+    color: #f7e7ce !important;
+}
+
+.contact-color {
+    color: #50C9CE !important;
+}
+
+/*=================positioning===========*/
+
+.menuitem {
+    height: 120px;
+    text-align: center;
+    padding: 0;
+    width:20%;
+}
+
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: #3E8989;
+    height: 120px;
+}
+
+.menuitem a i {
+    padding-top: 25px;
+    display: block;
+    color: #e56b70;
+    font-size: 30px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 12px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.image_home {
+    width: 100%;
+}
+
+.index-image {
+    width: 100%
+}
+
+.background-index {
+    background-color: #e56b70;
+    color: #f7e7ce !important;
+}
+
+.background-history {
+    background-color: #e56b70 !important;
+    color: #f7e7ce !important;
+}
+
+.background-contact {
+    background-color: #188FA7 !important;
+    color: #f7e7ce;
+}
+
+.background-media {
+    background-color: #e56b70 !important;
+    color: #f7e7ce;
+}
+
+.index-title {
+    color: #f7e7ce;
+}
+
+.history-title {
+    color: #f7e7ce;
+}
+
+.fa-book-reader {
+    color: #624CAB !important;
+}
+
+.fa-hashtag {
+    color: #4ECDC4 !important;
+}
+
+.fa-envelope {
+    color: #FFE66D !important;
+}
+
+.imgContainer {
+    float: left;
+}
+
+/*-----------------Testing-----*/
+
+.imgContainer {
+    position: relative;
+    width: 650px;
+    height: 365px;
+    transition-delay: 0.5s;
+    animation-delay: 2s;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 25px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.imgContainer .after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+    color: #FFF;
+}
+
+.imgContainer:hover .after {
+    display: block;
+    background: rgba(0, 0, 0, .6);
+}
+
+.center {
+    display: block;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 75%;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 0px 10px 0px 10px;
+}
+
+#exampleInputEmail1 {
+    width: 200px;
+}
+
+/*--------------------screen width on device------*/
+
+@media screen and (min-width: 1024px) {
+    
+}
