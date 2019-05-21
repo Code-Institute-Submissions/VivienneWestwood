@@ -32,6 +32,21 @@ To help me complete this project, I used the below technologies:
 This website was coded and stored in Cloud 9 IDE. With Bash/Ubuntu script, this website was pushed regularly to GitHub.
 The website can be found at: https://ooohitsasnaaake.github.io/VivienneWestwood/
 
+<h3>UX</h3>
+
+This easy to navigate and responsive website is aimed towards fans of Vivienne Westwood throughout her life and work.
+<h5><i>The website should appeal to:</i></h5>
+<li>People between 20-90 years old</li>
+<li>Fashion and art lovers</li>
+<li>People with an interest in punk and punk fashion history</li>
+<li>People who love colour and design in respect to fashion and fashion photography
+
+<h5><i>Users coming to this site may be looking for:</i></h5>
+<li>A way to follow and keep up-to-date with Vivienne Westwood</li>
+<li>Look at photos, read and navigate around the website to their needs</li>
+<li>Sign up to the mailing list</li>
+
+
 
 <h3>Content</h3>
 
