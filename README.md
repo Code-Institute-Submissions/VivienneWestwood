@@ -39,6 +39,13 @@ The information used in this website was sourced from Wikipedia and from the boo
 
 Video interviews were obtained from YouTube and photos are from Google. 
 
+<h3>Credits</h3>
+
+Over the course of this project, I have received help from different sources listed below. I would also like to thank my mentor and various people on Slack (Code Institute group).
+The following are sources I used when I was troubleshooting during my project.
+
+<li>[Google](www.google.ie)
+
 
 <h3>Disclaimer</h3>
 
