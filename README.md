@@ -44,7 +44,11 @@ Video interviews were obtained from YouTube and photos are from Google.
 Over the course of this project, I have received help from different sources listed below. I would also like to thank my mentor and various people on Slack (Code Institute group).
 The following are sources I used when I was troubleshooting during my project.
 
-<li>[Google](www.google.ie)
+<li>Code Institute</li>
+<li>Stackoverflow</li>
+<li>w3 Schools</li>
+<li>CSS Tricks</li>
+<li>Google</li>
 
 
 <h3>Disclaimer</h3>
