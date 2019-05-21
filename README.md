@@ -32,3 +32,14 @@ To help me complete this project, I used the below technologies:
 This website was coded and stored in Cloud 9 IDE. With Bash/Ubuntu script, this website was pushed regularly to GitHub.
 The website can be found at: https://ooohitsasnaaake.github.io/VivienneWestwood/
 
+
+<h3>Content</h3>
+
+The information used in this website was sourced from Wikipedia and from the book Vivienne Westwood (VA) by Claire Wilcox.
+
+Video interviews were obtained from YouTube and photos are from Google. 
+
+
+<h3>Disclaimer</h3>
+
+The contents of this website are for educational purposes only.
