@@ -9,13 +9,13 @@ There is colour and flair to reflect Vivienne's persona. It touches on Vivienne'
 
 To help me complete this project, I used the below technologies:
 
-• Bootstrap 4
-• HTML
-• CSS
-• Javascript
-• Font Awesome
-• Google Fonts
-• GitHub
-• Cloud 9 IDE
-• JQuery
-• Bash
+<li>Bootstrap 4</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>Font Awesome</li>
+<li>Google Fonts</li>
+<li>GitHub</li>
+<li>Cloud 9 IDE</li>
+<li>JQuery</li>
+<li>Bash</li>
