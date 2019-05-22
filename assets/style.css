@@ -206,8 +206,17 @@ p {
     padding: 0px 10px 0px 10px;
 }
 
-#exampleInputEmail1 {
+#InputEmail1 {
     width: 200px;
+}
+
+.name {
+    width: 200px;
+    text-align: center;
+}
+
+#FormControlTextarea1 {
+    width: 350px;
 }
 
 /*---------Carousel2------------*/

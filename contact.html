@@ -8,10 +8,10 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/style.css" type="text/css" />
     <title>Contact</title>
-      </head>
+</head>
    <body>
-     <div class="row no-gutters">
-        <div class="col">
+      <div class="row no-gutters">
+         <div class="col">
             <div class="col-12 background-contact text-center"><em>Keep in touch and join our mailing list!</em></div>
             <ul id="nav" class="list-inline menucontainer">
                 <li class="col-s-2 list-inline-item ui-menu-color-home menuitem">
@@ -33,10 +33,20 @@
     <form>
         <div class="form-group">
             <label for="exampleInputEmail1">Contact me</label>
-            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-            <button type="submit" class="btn btn-dark">Submit</button>
-            <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+            <form>
+                <input type="email" class="form-control" id="InputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+           </div>
+             <br>
+               <div class="form-group">
+            <label for="exampleFormControlTextarea1">Submit your question or query</label>
+            <textarea class="form-control" id="FormControlTextarea1" rows="3"></textarea>
+           </div>
+        <div class="custom-control custom-checkbox">
+            <input type="checkbox" class="custom-control-input" id="customCheck1">
+            <label class="custom-control-label" for="customCheck1">Tick this box to receive news!</label>
         </div>
-    </form>
+        <button type="submit" class="btn btn-dark">Submit</button>
+           </form>
 </body>
 </html>
