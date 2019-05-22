@@ -210,6 +210,38 @@ p {
     width: 200px;
 }
 
+/*-----------------Carousel------------------*/
+
+.h-75 {
+    height: 50%!important;
+}
+
+<style type="text/css">
+.slide-show-render-full .slide-image {
+height: 100%;
+max-height: 650px;
+max-width: 350px;
+}
+
+.slide-show-render-full .slide-content {
+height: 650px;
+width: 350px;
+}
+.slide-show-render .slides {
+height: 650px;
+}
+
+.slide-show-render.slide-show {
+height: 650px;
+margin: 0 0 20px -60px;
+}
+.slide-show {
+width: 350px;
+}
+
+</style>
+
+
 /*--------------------screen width on device------*/
 
 @media screen and (min-width: 1024px) {

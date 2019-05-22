@@ -13,7 +13,7 @@ The aim of this website is to provide a user-friendly platform for users and fan
 
 To help me complete this project, I used the below technologies:
 
-<li>Bootstrap 4</li>
+<li>Bootstrap</li>
 <li>HTML</li>
 <li>CSS</li>
 <li>Javascript</li>
