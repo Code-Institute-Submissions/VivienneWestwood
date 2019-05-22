@@ -208,21 +208,24 @@ p {
 
 #InputEmail1 {
     width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
-.name {
-    width: 200px;
-    text-align: center;
-}
 
 #FormControlTextarea1 {
     width: 350px;
 }
 
-/*---------Carousel2------------*/
+.mainimage {
+    margin-bottom: 20px;
+}
 
-.carouselExampleFade {
-    max-height: 50%!important;
+/*---------Carousel2------------*\
+
+#carouselExampleFade {
+    height: 300px;
+    max-height: 300px;
 }
 
 /*-----------------Carousel------------------*\
