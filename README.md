@@ -26,6 +26,7 @@ To help me complete this project, I used the below technologies:
 * JQuery
 * Bash
 * Ubuntu
+* [Coolors](https://coolors.co/2e382e-50c9ce-72a1e5-9883e5-fcd3de)
 
 
 
@@ -34,6 +35,25 @@ To help me complete this project, I used the below technologies:
 ---
 This website was coded and stored in Cloud 9 IDE. With Bash/Ubuntu script, this website was pushed regularly to GitHub.
 The website can be found at: https://ooohitsasnaaake.github.io/VivienneWestwood/
+
+To deploy my website from its [GitHub repository](https://github.com/Ooohitsasnaaake/VivienneWestwood), I followed the steps below.
+1. Login in GitHub
+1. Locate and click on repository on the left side of the login page named __Ooohitsasnaaake/VivienneWestwood__
+1. Click on settings on repository page
+1. Scroll down to GitHub Pages and click on Source
+1. Change Source to Master Branch
+1. When the page is refreshed, scroll down again to GitHub Pages and you will see the link for the website underneath
+ 
+__*How to clone this project from GitHub*__
+
+1. Login to GitHub
+1. Open the [GitHub repository](https://github.com/Ooohitsasnaaake/VivienneWestwood) you want to clone
+1. Press the "Clone or download" button on the right side of the page
+1. Using the icon to the right of the code, click on it to copy the clone URL for the repository 
+1. Open Terminal or Git Bash in your IDE
+1. Change the current directory to the location of where you want your cloned directory to be made
+1. Type "git clone" and paste in the URL copied earlier from GitHub
+1. Finally, once you press enter, your clone will be created
 
 <h3>UX</h3>
 
