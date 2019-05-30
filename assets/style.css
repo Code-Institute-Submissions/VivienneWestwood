@@ -159,8 +159,6 @@ p {
     float: left;
 }
 
-/*-----------------Testing-----*/
-
 .imgContainer {
     position: relative;
     width: 650px;
@@ -231,44 +229,8 @@ p {
     margin-bottom: 15px;
     margin-top: 10px;
 }
-/*---------Carousel2-----------*\
-
-#carouselExampleFade {
-    height: 300px;
-    max-height: 300px;
-}
-
-/*-----------------Carousel------------------*\
-.slide-show-render-full .slide-image {
-height: 50%;
-max-height: 650px;
-max-width: 350px;
-}
-
-.slide-show-render-full .slide-content {
-height: 500px;
-width: 350px;
-}
-.slide-show-render .slides {
-height: 500px;
-}
-
-.slide-show-render.slide-show {
-height: 500px;
-margin: 0 0 20px -60px;
-}
-.slide-show {
-width: 350px;
-}
-
-
-/*--------------------screen width on device------*/
 
 @media screen and (min-width: 1024px) {
     
 }
 
-
-@media only screen  and (min-width : 1224px) {
-    
-}
