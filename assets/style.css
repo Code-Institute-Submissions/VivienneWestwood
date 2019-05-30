@@ -212,6 +212,12 @@ p {
     margin-bottom: 10px;
 }
 
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
 
 #FormControlTextarea1 {
     width: 350px;
@@ -225,8 +231,7 @@ p {
     margin-bottom: 15px;
     margin-top: 10px;
 }
-
-/*---------Carousel2------------*\
+/*---------Carousel2-----------*\
 
 #carouselExampleFade {
     height: 300px;
@@ -260,5 +265,10 @@ width: 350px;
 /*--------------------screen width on device------*/
 
 @media screen and (min-width: 1024px) {
+    
+}
+
+
+@media only screen  and (min-width : 1224px) {
     
 }

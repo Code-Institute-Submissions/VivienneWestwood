@@ -30,6 +30,15 @@ To help me complete this project, I used the below technologies:
 
 
 
+<h3>Wireframes</h3>
+
+![alt text](https://github.com/Ooohitsasnaaake/VivienneWestwood/blob/master/assets/wireframes/index.png?raw=true)
+![alt text](https://github.com/Ooohitsasnaaake/VivienneWestwood/blob/master/assets/wireframes/history.png?raw=true)
+![alt text](https://github.com/Ooohitsasnaaake/VivienneWestwood/blob/master/assets/wireframes/media.png?raw=true)
+![alt text](https://github.com/Ooohitsasnaaake/VivienneWestwood/blob/master/assets/wireframes/contact.png?raw=true)
+
+
+
 <h3>Deployment</h3>
 
 ---
@@ -59,6 +68,7 @@ __*How to clone this project from GitHub*__
 
 ---
 This easy to navigate and responsive website is aimed towards fans of Vivienne Westwood throughout her life and work.
+This website is aimed towards mobile phones. 
 
 <h5>*The website should appeal to:*</h5>
 * People between 20-90 years old
